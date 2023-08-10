@@ -1,5 +1,5 @@
 // operators and operands-----------------
-public class lec_5 {
+public class Lec_5 {
     public static void main(String args[]) {
         float f = (float) 5.5; // by default considers decimal to be double
         double d = 10.5;
