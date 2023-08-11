@@ -10,7 +10,7 @@ class Circle extends shape{
         System.out.println(pi*get_square(r));
     }
 }
-public class lec_9{
+public class Lec_9{
     public static void main(String args[]){
         Circle c=new Circle();
         c.area(5);
